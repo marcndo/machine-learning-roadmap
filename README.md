@@ -42,5 +42,31 @@ I have written detailed Medium articles to supplement this repository, explainin
 │── 📜 requirements.txt                   # List of dependencies to install
 │── 📜 README.md                           # Project Documentation
 
+# Installation guide
+To run the notebooks in this repository, follow these steps:
+
+### 1) Clone the Repository.
+`git clone https://github.com/yourusername/machine-learning-roadmap.git
+cd machine-learning-roadmap`
+### 2) Create a Virtual Environment (Optional but Recommended)
+`python3 -m venv ml_env
+source ml_env/bin/activate   # Mac/Linux
+ml_env\Scripts\activate      # Windows`
+### 3) Install Dependencies
+`pip install -r requirements.txt`
+### 4) Launch Jupyter Notebook
+`jupyter notebook`
+
+## References
+This repository is complemented by in-depth Medium articles explaining each algorithm in detail:
+| Algorithms                  | Medium Articles|
+|-----------------------------|----------------|
+| Linear Regression           | In progress    |          
+| Support Vector Machines     | In progress    | 
+| Principal Component Analysis| In progress    |      
+| Neural Networks	            | In progress    |
+
+
+
 
 
