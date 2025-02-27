@@ -66,6 +66,17 @@ This repository is complemented by in-depth Medium articles explaining each algo
 | Principal Component Analysis| In progress    |      
 | Neural Networks	            | In progress    |
 
+# How to Contribute.
+I welcome contributions from the community! If you would like to contribute:
+1. Fork the repository.
+2. reate a feature branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m "Added new ML algorithm"`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Submit a Pull Request
+# Contact & Connect
+ LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelndowah/)
+ Medium: [Medium](https://medium.com/@ndowahmarcel/subscribe)
+
 
 
 
