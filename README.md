@@ -8,9 +8,9 @@ This repository serves as a structured collection of Machine Learning concepts, 
 I have written detailed Medium articles to supplement this repository, explaining the concepts further. If you're looking to learn ML deeply, prepare for technical interviews, or apply these algorithms in real-world projects, this repository is for you.
 
 # Folder Structure.
-`📂 machine-learning-roadmap
-│── 📂 data-analysis
-│   ├── exploratory_data_analysis.ipynb  # EDA techniques with Pandas, Matplotlib, and Seaborn
+`📂 machine-learning-roadmap`
+`│── 📂 data-analysis`
+`│   ├── exploratory_data_analysis.ipynb  # EDA techniques with Pandas, Matplotlib, and Seaborn`
 │   ├── feature_engineering.ipynb        # Handling missing values, feature scaling, encoding
 │   ├── data_preprocessing.ipynb         # Data cleaning, transformation, and augmentation
 │
