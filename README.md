@@ -42,7 +42,7 @@ I have written detailed Medium articles to supplement this repository, explainin
 │── 📜 requirements.txt                   # List of dependencies to install
 │── 📜 README.md                           # Project Documentation
 
-# Installation guide
+# Installation guide.
 To run the notebooks in this repository, follow these steps:
 
 ### 1) Clone the Repository.
